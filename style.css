@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+  
+}
+
+h1,h2 {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 50px auto;
+}
+
+h5 {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2;
+    margin: 50px auto;
+}
+
+h6 {
+    font-family: 'Open Sans', sans-serif;
+    margin : 10px auto;
+}
+
+
+#title {
+    background-color: #46cdcf;
+    color: #fff;
+    padding: 50px;
+}
+
+.me {
+    width: 15%;
+    margin-top: 50px;
+}
+
+.skill-img {
+    margin: 50px;
+}
+
+#works {
+    background-color: #46cdcf;
+    color: #fff;
+    padding: 50px;
+}
+
+
+.testimonial-image {
+    height: auto;
+    width : 80%;
+    border-radius: 20px;
+}
+
+#contact {
+    padding: 50px;
+}
+
+#footer {
+    background-color: #46cdcf;
+    padding: 10px;
+    color: #fff;
+}
+
+@media (max-width: 1028px) {
+
+    .me {
+        width: 50%;
+    }
+  }
