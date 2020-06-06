@@ -19,6 +19,15 @@ h6 {
     margin : 10px auto;
 }
 
+.nav-link {
+    transition: text-shadow 0.2s linear;
+}
+
+
+.nav-link:hover {
+    font-size: 20px;
+    text-shadow: 0 0 10px gold; 
+}
 
 #title {
     background-color: #46cdcf;
