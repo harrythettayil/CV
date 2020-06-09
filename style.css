@@ -1,8 +1,7 @@
 body {
     text-align: center;
     background-image: url('images/beach.jpg');
-    background-size: cover;
-  
+    background-size: cover; 
 }
 
 .nav-link {
@@ -32,9 +31,7 @@ h6 {
 }
 
 
-#title {
-    
-    
+#title { 
     padding: 50px;
 }
 
@@ -44,12 +41,14 @@ h6 {
 }
 
 .skill-img {
-    margin: 50px;
+    margin: 70px;
+}
+
+.skill-img1 {
+    margin: 60px;
 }
 
 #works {
-   
-    
     padding-top: 1px;
     padding-bottom: 50px;
 }
