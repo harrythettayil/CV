@@ -42,11 +42,7 @@ h6 {
 
 .skill-img {
     margin: 70px;
-}
-
-.skill-img1 {
-    margin: 60px;
-}
+} 
 
 #works {
     padding-top: 1px;
@@ -69,6 +65,7 @@ h6 {
 #contact {
     padding: 50px;
 }
+
 
 #footer {
     padding: 10px;   
